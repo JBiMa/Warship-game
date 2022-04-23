@@ -1,0 +1,15 @@
+﻿  Gra w statki.cpp
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(217,36): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(218,36): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(219,44): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(236,36): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(237,36): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(238,44): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(255,36): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(256,36): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(257,44): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(274,36): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(275,36): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(276,44): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Maciej\Desktop\Gra w statki\Gra w statki\Gra w statki.cpp(452,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Gra w statki.vcxproj -> C:\Users\Maciej\Desktop\Gra w statki\x64\Debug\Gra w statki.exe
